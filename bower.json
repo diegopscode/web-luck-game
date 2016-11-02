@@ -1,0 +1,20 @@
+{
+  "name": "web-luck-game",
+  "description": "A luck game.",
+  "main": "index.js",
+  "authors": [
+    "Diego Pancera dos Santos"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "game"
+  ],
+  "homepage": "https://github.com/diegoyuh/web-luck-game",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
